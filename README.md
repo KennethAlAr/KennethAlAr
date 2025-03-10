@@ -1,4 +1,4 @@
-# 🤖 print (welcome_message) --- !Hola mundo! 👋
+# print (welcome_message) --- !Hola mundo! <img src="/images/Darwinregplisss.webp" width="40" height="40">
 
 ## 📌Want to know me? Read this! ☝️🤓
 
