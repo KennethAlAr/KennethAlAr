@@ -18,7 +18,7 @@
     
     TLDR: I wanna be the very best, like no one ever was (at least at programming).
 
-## 📌Currently student:
+## 📌Currently studing:
 
 - Languages
 
