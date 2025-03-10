@@ -1,6 +1,4 @@
-<b><p style="font-size:30px;"><span style="color: purple;">print </span><span style="color: yellow;">(</span><span style="color: green;">welcome_message</span><span style="color: yellow;">)<span style="color: white;"> --- ¡Hola mundo! 👋</span></p></b>
-
----
+# 🤖 print (welcome_message) --- !Hola mundo! 👋
 
 ## 📌Want to know me? Read this! ☝️🤓
 
