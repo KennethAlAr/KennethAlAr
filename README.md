@@ -41,4 +41,4 @@ Well, I’m not an expert in anything yet, but I do really enjoy petting dogs.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennethAlAr)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennethAlAr&layout=compact)
