@@ -1,10 +1,7 @@
 <p align="center">
-    <img src="/images/Darwinregplisss.webp" width="40" height="40" style="vertical-align: middle;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=15C50D&width=435&lines=!Hola+Mundo!;Kenneth's+here!+" alt="Typing SVG" style="vertical-align: middle;"/>
-    </a>
+    <img src="/images/Darwinregplisss.webp" width="50" height="50" style="vertical-align: middle;">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=15C50D&width=435&lines=!Hola+Mundo!;Kenneth's+here!+" alt="Typing SVG" /></a>
 </p>
-
 
 
 
