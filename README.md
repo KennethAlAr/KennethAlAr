@@ -2,7 +2,7 @@
 
 ## 📌Want to know me? Read this! ☝️🤓
 
-- 📜 I’m currently studing Cross-platform Application Development and cybersecurity.
+- 📜 I’m currently studing Cross-platform App Development and cybersecurity.
 - 🌱 Born and raised in Barcelona, Spain. A product of 1988.
 - 🏛️ Former architect.
 - 💾 Now on my journey to becoming a programmer and software developer and doing what I'm passionate about.
