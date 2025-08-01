@@ -17,6 +17,7 @@
     > My son, the day you were born, the very forests of Lordaeron whispered the name...
     
     TLDR: I wanna be the very best, like no one ever was (at least at programming).
+  [Check out my portfolio!](https://kennethalonso.vercel.app/)
 
 ## 📌Currently studing:
 
